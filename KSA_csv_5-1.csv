@@ -1,0 +1,589 @@
+"name","value","year","lastValue","rank"
+"Cardiovascular diseases",5210.275816,1990,NA,1
+"Cardiovascular diseases",5164.842658,1991,5210.275816,1
+"Cardiovascular diseases",5088.577137,1992,5164.842658,1
+"Cardiovascular diseases",5008.956107,1993,5088.577137,1
+"Cardiovascular diseases",4928.091072,1994,5008.956107,1
+"Cardiovascular diseases",4856.755851,1995,4928.091072,1
+"Cardiovascular diseases",4781.67172,1996,4856.755851,1
+"Cardiovascular diseases",4705.187318,1997,4781.67172,1
+"Cardiovascular diseases",4648.920407,1998,4705.187318,1
+"Cardiovascular diseases",4619.135098,1999,4648.920407,1
+"Cardiovascular diseases",4619.052351,2000,4619.135098,1
+"Cardiovascular diseases",4617.092005,2001,4619.052351,1
+"Cardiovascular diseases",4772.830281,2002,4617.092005,1
+"Cardiovascular diseases",4861.657952,2003,4772.830281,1
+"Cardiovascular diseases",4941.493429,2004,4861.657952,1
+"Cardiovascular diseases",5114.810573,2005,4941.493429,1
+"Cardiovascular diseases",5232.928759,2006,5114.810573,1
+"Cardiovascular diseases",5300.225062,2007,5232.928759,1
+"Cardiovascular diseases",5385.185984,2008,5300.225062,1
+"Cardiovascular diseases",5437.682418,2009,5385.185984,1
+"Cardiovascular diseases",5450.226568,2010,5437.682418,1
+"Cardiovascular diseases",5387.956294,2011,5450.226568,1
+"Cardiovascular diseases",5260.072998,2012,5387.956294,1
+"Cardiovascular diseases",5100.008078,2013,5260.072998,1
+"Cardiovascular diseases",4912.161175,2014,5100.008078,1
+"Cardiovascular diseases",4739.136535,2015,4912.161175,1
+"Cardiovascular diseases",4589.210175,2016,4739.136535,1
+"Cardiovascular diseases",4461.298881,2017,4589.210175,1
+"Chronic respiratory diseases",605.5962726,1990,NA,12
+"Chronic respiratory diseases",594.5620957,1991,605.5962726,11
+"Chronic respiratory diseases",578.3181646,1992,594.5620957,11
+"Chronic respiratory diseases",562.4702763,1993,578.3181646,12
+"Chronic respiratory diseases",546.8552915,1994,562.4702763,11
+"Chronic respiratory diseases",532.7771028,1995,546.8552915,11
+"Chronic respiratory diseases",520.7372082,1996,532.7771028,11
+"Chronic respiratory diseases",509.817455,1997,520.7372082,11
+"Chronic respiratory diseases",501.1137339,1998,509.817455,11
+"Chronic respiratory diseases",494.9991403,1999,501.1137339,11
+"Chronic respiratory diseases",490.7132477,2000,494.9991403,11
+"Chronic respiratory diseases",475.302387,2001,490.7132477,11
+"Chronic respiratory diseases",478.0769684,2002,475.302387,11
+"Chronic respiratory diseases",481.805086,2003,478.0769684,11
+"Chronic respiratory diseases",479.1820029,2004,481.805086,11
+"Chronic respiratory diseases",483.3982391,2005,479.1820029,11
+"Chronic respiratory diseases",484.2840609,2006,483.3982391,11
+"Chronic respiratory diseases",488.207577,2007,484.2840609,11
+"Chronic respiratory diseases",492.3636524,2008,488.207577,11
+"Chronic respiratory diseases",493.4964042,2009,492.3636524,11
+"Chronic respiratory diseases",491.4011556,2010,493.4964042,11
+"Chronic respiratory diseases",481.7697069,2011,491.4011556,11
+"Chronic respiratory diseases",466.0825209,2012,481.7697069,11
+"Chronic respiratory diseases",448.7134288,2013,466.0825209,11
+"Chronic respiratory diseases",431.0520178,2014,448.7134288,11
+"Chronic respiratory diseases",412.8402367,2015,431.0520178,11
+"Chronic respiratory diseases",398.502149,2016,412.8402367,12
+"Chronic respiratory diseases",386.8341811,2017,398.502149,12
+"Diabetes and kidney diseases",971.1297813,1990,NA,8
+"Diabetes and kidney diseases",966.3300566,1991,971.1297813,8
+"Diabetes and kidney diseases",954.6131975,1992,966.3300566,8
+"Diabetes and kidney diseases",945.0604841,1993,954.6131975,8
+"Diabetes and kidney diseases",941.1424258,1994,945.0604841,8
+"Diabetes and kidney diseases",942.6075781,1995,941.1424258,8
+"Diabetes and kidney diseases",942.2211066,1996,942.6075781,8
+"Diabetes and kidney diseases",942.9294922,1997,942.2211066,8
+"Diabetes and kidney diseases",944.5018483,1998,942.9294922,8
+"Diabetes and kidney diseases",944.2441916,1999,944.5018483,8
+"Diabetes and kidney diseases",951.5144364,2000,944.2441916,7
+"Diabetes and kidney diseases",933.0368541,2001,951.5144364,7
+"Diabetes and kidney diseases",954.0913833,2002,933.0368541,7
+"Diabetes and kidney diseases",956.0966469,2003,954.0913833,7
+"Diabetes and kidney diseases",935.5414907,2004,956.0966469,7
+"Diabetes and kidney diseases",938.3892673,2005,935.5414907,7
+"Diabetes and kidney diseases",951.3087563,2006,938.3892673,7
+"Diabetes and kidney diseases",961.182363,2007,951.3087563,7
+"Diabetes and kidney diseases",973.2683697,2008,961.182363,7
+"Diabetes and kidney diseases",979.5130816,2009,973.2683697,7
+"Diabetes and kidney diseases",980.1403056,2010,979.5130816,7
+"Diabetes and kidney diseases",973.482513,2011,980.1403056,7
+"Diabetes and kidney diseases",956.6305404,2012,973.482513,6
+"Diabetes and kidney diseases",936.333556,2013,956.6305404,6
+"Diabetes and kidney diseases",918.1911293,2014,936.333556,6
+"Diabetes and kidney diseases",900.0502629,2015,918.1911293,6
+"Diabetes and kidney diseases",884.5443429,2016,900.0502629,6
+"Diabetes and kidney diseases",858.3537411,2017,884.5443429,6
+"Digestive diseases",740.8297679,1990,NA,11
+"Digestive diseases",723.9247021,1991,740.8297679,10
+"Digestive diseases",702.030763,1992,723.9247021,10
+"Digestive diseases",680.6061464,1993,702.030763,9
+"Digestive diseases",659.6040764,1994,680.6061464,9
+"Digestive diseases",640.993226,1995,659.6040764,9
+"Digestive diseases",622.3899825,1996,640.993226,9
+"Digestive diseases",604.676829,1997,622.3899825,9
+"Digestive diseases",589.4603996,1998,604.676829,9
+"Digestive diseases",578.0287216,1999,589.4603996,9
+"Digestive diseases",567.0975127,2000,578.0287216,10
+"Digestive diseases",566.2912775,2001,567.0975127,10
+"Digestive diseases",572.8499,2002,566.2912775,10
+"Digestive diseases",568.0701147,2003,572.8499,10
+"Digestive diseases",550.7460025,2004,568.0701147,10
+"Digestive diseases",541.8740966,2005,550.7460025,10
+"Digestive diseases",530.1339319,2006,541.8740966,10
+"Digestive diseases",528.8677232,2007,530.1339319,10
+"Digestive diseases",531.0093179,2008,528.8677232,10
+"Digestive diseases",532.90549,2009,531.0093179,10
+"Digestive diseases",532.0895163,2010,532.90549,10
+"Digestive diseases",521.3820389,2011,532.0895163,10
+"Digestive diseases",507.2359506,2012,521.3820389,10
+"Digestive diseases",491.9044824,2013,507.2359506,10
+"Digestive diseases",478.5886384,2014,491.9044824,10
+"Digestive diseases",462.0935033,2015,478.5886384,10
+"Digestive diseases",449.5588592,2016,462.0935033,11
+"Digestive diseases",440.7175858,2017,449.5588592,11
+"Enteric infections",883.7589596,1990,NA,9
+"Enteric infections",816.9284956,1991,883.7589596,9
+"Enteric infections",707.2556685,1992,816.9284956,9
+"Enteric infections",613.3425451,1993,707.2556685,10
+"Enteric infections",532.1617547,1994,613.3425451,12
+"Enteric infections",467.2663026,1995,532.1617547,12
+"Enteric infections",405.4214377,1996,467.2663026,12
+"Enteric infections",353.1983144,1997,405.4214377,12
+"Enteric infections",311.4703774,1998,353.1983144,12
+"Enteric infections",281.4505906,1999,311.4703774,12
+"Enteric infections",251.7424107,2000,281.4505906,12
+"Enteric infections",229.3134411,2001,251.7424107,12
+"Enteric infections",208.4256136,2002,229.3134411,12
+"Enteric infections",188.8984559,2003,208.4256136,12
+"Enteric infections",168.4684457,2004,188.8984559,13
+"Enteric infections",151.2963583,2005,168.4684457,13
+"Enteric infections",134.4626312,2006,151.2963583,14
+"Enteric infections",120.8828897,2007,134.4626312,14
+"Enteric infections",109.3457304,2008,120.8828897,14
+"Enteric infections",99.43949708,2009,109.3457304,15
+"Enteric infections",90.48734806,2010,99.43949708,15
+"Enteric infections",82.66076386,2011,90.48734806,15
+"Enteric infections",76.18028967,2012,82.66076386,15
+"Enteric infections",70.31891174,2013,76.18028967,15
+"Enteric infections",65.42811272,2014,70.31891174,15
+"Enteric infections",60.72360718,2015,65.42811272,16
+"Enteric infections",56.98008842,2016,60.72360718,16
+"Enteric infections",54.34498142,2017,56.98008842,16
+"HIV/AIDS and sexually transmitted infections",51.46208306,1990,NA,17
+"HIV/AIDS and sexually transmitted infections",54.1294795,1991,51.46208306,16
+"HIV/AIDS and sexually transmitted infections",56.48100119,1992,54.1294795,16
+"HIV/AIDS and sexually transmitted infections",58.94719076,1993,56.48100119,16
+"HIV/AIDS and sexually transmitted infections",61.35866739,1994,58.94719076,15
+"HIV/AIDS and sexually transmitted infections",64.10754495,1995,61.35866739,15
+"HIV/AIDS and sexually transmitted infections",66.97635914,1996,64.10754495,15
+"HIV/AIDS and sexually transmitted infections",70.03984109,1997,66.97635914,15
+"HIV/AIDS and sexually transmitted infections",73.43895974,1998,70.03984109,15
+"HIV/AIDS and sexually transmitted infections",80.35738749,1999,73.43895974,15
+"HIV/AIDS and sexually transmitted infections",90.01098114,2000,80.35738749,15
+"HIV/AIDS and sexually transmitted infections",98.11952725,2001,90.01098114,15
+"HIV/AIDS and sexually transmitted infections",104.4693586,2002,98.11952725,15
+"HIV/AIDS and sexually transmitted infections",109.1794214,2003,104.4693586,15
+"HIV/AIDS and sexually transmitted infections",111.7338472,2004,109.1794214,15
+"HIV/AIDS and sexually transmitted infections",112.8521479,2005,111.7338472,15
+"HIV/AIDS and sexually transmitted infections",112.0706525,2006,112.8521479,15
+"HIV/AIDS and sexually transmitted infections",110.5750581,2007,112.0706525,15
+"HIV/AIDS and sexually transmitted infections",108.1875536,2008,110.5750581,15
+"HIV/AIDS and sexually transmitted infections",105.3979882,2009,108.1875536,14
+"HIV/AIDS and sexually transmitted infections",102.6785743,2010,105.3979882,14
+"HIV/AIDS and sexually transmitted infections",100.2291924,2011,102.6785743,14
+"HIV/AIDS and sexually transmitted infections",97.62616192,2012,100.2291924,14
+"HIV/AIDS and sexually transmitted infections",95.14085152,2013,97.62616192,14
+"HIV/AIDS and sexually transmitted infections",92.91504635,2014,95.14085152,14
+"HIV/AIDS and sexually transmitted infections",90.43521195,2015,92.91504635,14
+"HIV/AIDS and sexually transmitted infections",88.51587363,2016,90.43521195,14
+"HIV/AIDS and sexually transmitted infections",87.43250428,2017,88.51587363,14
+"Maternal and neonatal disorders",4261.420105,1990,NA,2
+"Maternal and neonatal disorders",4203.352486,1991,4261.420105,2
+"Maternal and neonatal disorders",4071.081438,1992,4203.352486,2
+"Maternal and neonatal disorders",3934.769044,1993,4071.081438,2
+"Maternal and neonatal disorders",3786.88502,1994,3934.769044,2
+"Maternal and neonatal disorders",3677.495873,1995,3786.88502,2
+"Maternal and neonatal disorders",3536.575906,1996,3677.495873,2
+"Maternal and neonatal disorders",3393.133955,1997,3536.575906,2
+"Maternal and neonatal disorders",3258.057862,1998,3393.133955,2
+"Maternal and neonatal disorders",3109.950627,1999,3258.057862,2
+"Maternal and neonatal disorders",2956.011419,2000,3109.950627,2
+"Maternal and neonatal disorders",2813.669828,2001,2956.011419,2
+"Maternal and neonatal disorders",2671.410669,2002,2813.669828,2
+"Maternal and neonatal disorders",2500.306378,2003,2671.410669,2
+"Maternal and neonatal disorders",2301.352239,2004,2500.306378,2
+"Maternal and neonatal disorders",2116.481691,2005,2301.352239,2
+"Maternal and neonatal disorders",1935.122286,2006,2116.481691,2
+"Maternal and neonatal disorders",1778.673871,2007,1935.122286,3
+"Maternal and neonatal disorders",1633.543414,2008,1778.673871,4
+"Maternal and neonatal disorders",1515.736304,2009,1633.543414,4
+"Maternal and neonatal disorders",1412.184244,2010,1515.736304,4
+"Maternal and neonatal disorders",1314.737963,2011,1412.184244,4
+"Maternal and neonatal disorders",1230.454506,2012,1314.737963,4
+"Maternal and neonatal disorders",1157.17042,2013,1230.454506,4
+"Maternal and neonatal disorders",1091.331304,2014,1157.17042,4
+"Maternal and neonatal disorders",1027.840132,2015,1091.331304,5
+"Maternal and neonatal disorders",972.0977057,2016,1027.840132,4
+"Maternal and neonatal disorders",900.8454111,2017,972.0977057,5
+"Mental disorders",0.012921206,1990,NA,21
+"Mental disorders",0.013314948,1991,0.012921206,21
+"Mental disorders",0.013677208,1992,0.013314948,21
+"Mental disorders",0.014072616,1993,0.013677208,21
+"Mental disorders",0.014479043,1994,0.014072616,21
+"Mental disorders",0.014952791,1995,0.014479043,21
+"Mental disorders",0.015469177,1996,0.014952791,21
+"Mental disorders",0.015802117,1997,0.015469177,21
+"Mental disorders",0.016136823,1998,0.015802117,21
+"Mental disorders",0.014668291,1999,0.016136823,21
+"Mental disorders",0.013236785,2000,0.014668291,21
+"Mental disorders",0.012774376,2001,0.013236785,21
+"Mental disorders",0.013125723,2002,0.012774376,21
+"Mental disorders",0.013725018,2003,0.013125723,21
+"Mental disorders",0.014535349,2004,0.013725018,21
+"Mental disorders",0.015718603,2005,0.014535349,21
+"Mental disorders",0.016868531,2006,0.015718603,21
+"Mental disorders",0.018246471,2007,0.016868531,21
+"Mental disorders",0.019774494,2008,0.018246471,21
+"Mental disorders",0.021128005,2009,0.019774494,21
+"Mental disorders",0.022733065,2010,0.021128005,21
+"Mental disorders",0.024521183,2011,0.022733065,21
+"Mental disorders",0.026450112,2012,0.024521183,21
+"Mental disorders",0.028786102,2013,0.026450112,21
+"Mental disorders",0.031622535,2014,0.028786102,21
+"Mental disorders",0.034351257,2015,0.031622535,21
+"Mental disorders",0.037107723,2016,0.034351257,21
+"Mental disorders",0.0401455,2017,0.037107723,21
+"Musculoskeletal disorders",16.62699924,1990,NA,20
+"Musculoskeletal disorders",16.60086816,1991,16.62699924,20
+"Musculoskeletal disorders",16.44034796,1992,16.60086816,20
+"Musculoskeletal disorders",16.28248042,1993,16.44034796,20
+"Musculoskeletal disorders",16.12998631,1994,16.28248042,20
+"Musculoskeletal disorders",16.0511934,1995,16.12998631,20
+"Musculoskeletal disorders",15.98738142,1996,16.0511934,19
+"Musculoskeletal disorders",15.87553372,1997,15.98738142,19
+"Musculoskeletal disorders",15.81386478,1998,15.87553372,19
+"Musculoskeletal disorders",15.78007795,1999,15.81386478,19
+"Musculoskeletal disorders",15.83598138,2000,15.78007795,19
+"Musculoskeletal disorders",15.94219498,2001,15.83598138,19
+"Musculoskeletal disorders",16.46244446,2002,15.94219498,19
+"Musculoskeletal disorders",16.77801405,2003,16.46244446,19
+"Musculoskeletal disorders",16.57331176,2004,16.77801405,19
+"Musculoskeletal disorders",16.69210743,2005,16.57331176,19
+"Musculoskeletal disorders",16.82264856,2006,16.69210743,19
+"Musculoskeletal disorders",16.94615622,2007,16.82264856,18
+"Musculoskeletal disorders",17.02341545,2008,16.94615622,18
+"Musculoskeletal disorders",16.98741142,2009,17.02341545,18
+"Musculoskeletal disorders",16.95666594,2010,16.98741142,18
+"Musculoskeletal disorders",16.88295939,2011,16.95666594,18
+"Musculoskeletal disorders",16.77747861,2012,16.88295939,18
+"Musculoskeletal disorders",16.73696353,2013,16.77747861,18
+"Musculoskeletal disorders",16.79108617,2014,16.73696353,18
+"Musculoskeletal disorders",16.74058265,2015,16.79108617,18
+"Musculoskeletal disorders",16.62195685,2016,16.74058265,18
+"Musculoskeletal disorders",16.40006385,2017,16.62195685,18
+"Neglected tropical diseases and malaria",57.66453501,1990,NA,16
+"Neglected tropical diseases and malaria",44.16818734,1991,57.66453501,17
+"Neglected tropical diseases and malaria",32.22940834,1992,44.16818734,17
+"Neglected tropical diseases and malaria",24.66120068,1993,32.22940834,19
+"Neglected tropical diseases and malaria",19.9083134,1994,24.66120068,19
+"Neglected tropical diseases and malaria",17.10683045,1995,19.9083134,19
+"Neglected tropical diseases and malaria",15.15140285,1996,17.10683045,20
+"Neglected tropical diseases and malaria",13.59793037,1997,15.15140285,20
+"Neglected tropical diseases and malaria",12.44302157,1998,13.59793037,20
+"Neglected tropical diseases and malaria",11.41294875,1999,12.44302157,20
+"Neglected tropical diseases and malaria",10.58488088,2000,11.41294875,20
+"Neglected tropical diseases and malaria",8.959129912,2001,10.58488088,20
+"Neglected tropical diseases and malaria",8.213410122,2002,8.959129912,20
+"Neglected tropical diseases and malaria",7.685006873,2003,8.213410122,20
+"Neglected tropical diseases and malaria",7.268424839,2004,7.685006873,20
+"Neglected tropical diseases and malaria",6.891627686,2005,7.268424839,20
+"Neglected tropical diseases and malaria",6.66063884,2006,6.891627686,20
+"Neglected tropical diseases and malaria",6.345116605,2007,6.66063884,20
+"Neglected tropical diseases and malaria",5.997244585,2008,6.345116605,20
+"Neglected tropical diseases and malaria",5.619782985,2009,5.997244585,20
+"Neglected tropical diseases and malaria",5.078458288,2010,5.619782985,20
+"Neglected tropical diseases and malaria",4.783755274,2011,5.078458288,20
+"Neglected tropical diseases and malaria",4.365186348,2012,4.783755274,20
+"Neglected tropical diseases and malaria",4.102530007,2013,4.365186348,20
+"Neglected tropical diseases and malaria",4.013344109,2014,4.102530007,20
+"Neglected tropical diseases and malaria",3.829661368,2015,4.013344109,20
+"Neglected tropical diseases and malaria",3.73747558,2016,3.829661368,20
+"Neglected tropical diseases and malaria",3.607646019,2017,3.73747558,20
+"Neoplasms",1585.413325,1990,NA,6
+"Neoplasms",1602.570745,1991,1585.413325,6
+"Neoplasms",1605.190336,1992,1602.570745,6
+"Neoplasms",1608.141085,1993,1605.190336,5
+"Neoplasms",1614.770687,1994,1608.141085,5
+"Neoplasms",1611.049566,1995,1614.770687,5
+"Neoplasms",1606.545192,1996,1611.049566,5
+"Neoplasms",1597.29398,1997,1606.545192,5
+"Neoplasms",1588.003929,1998,1597.29398,5
+"Neoplasms",1573.21182,1999,1588.003929,5
+"Neoplasms",1563.234691,2000,1573.21182,5
+"Neoplasms",1549.021828,2001,1563.234691,5
+"Neoplasms",1577.538539,2002,1549.021828,5
+"Neoplasms",1596.236527,2003,1577.538539,5
+"Neoplasms",1603.021889,2004,1596.236527,4
+"Neoplasms",1643.609095,2005,1603.021889,4
+"Neoplasms",1656.050634,2006,1643.609095,4
+"Neoplasms",1715.103486,2007,1656.050634,4
+"Neoplasms",1771.90568,2008,1715.103486,3
+"Neoplasms",1815.866062,2009,1771.90568,2
+"Neoplasms",1848.199324,2010,1815.866062,2
+"Neoplasms",1845.376795,2011,1848.199324,2
+"Neoplasms",1825.179617,2012,1845.376795,2
+"Neoplasms",1799.48823,2013,1825.179617,2
+"Neoplasms",1775.361521,2014,1799.48823,2
+"Neoplasms",1745.988066,2015,1775.361521,2
+"Neoplasms",1719.015746,2016,1745.988066,2
+"Neoplasms",1692.588978,2017,1719.015746,2
+"Neurological disorders",580.2951616,1990,NA,13
+"Neurological disorders",581.3933198,1991,580.2951616,12
+"Neurological disorders",577.7123346,1992,581.3933198,12
+"Neurological disorders",574.0724915,1993,577.7123346,11
+"Neurological disorders",572.0513087,1994,574.0724915,10
+"Neurological disorders",572.1815062,1995,572.0513087,10
+"Neurological disorders",571.9599614,1996,572.1815062,10
+"Neurological disorders",572.3167541,1997,571.9599614,10
+"Neurological disorders",573.0083472,1998,572.3167541,10
+"Neurological disorders",574.6434132,1999,573.0083472,10
+"Neurological disorders",578.9204034,2000,574.6434132,9
+"Neurological disorders",579.7396984,2001,578.9204034,9
+"Neurological disorders",592.8447827,2002,579.7396984,9
+"Neurological disorders",604.18463,2003,592.8447827,9
+"Neurological disorders",612.1496745,2004,604.18463,9
+"Neurological disorders",626.6267904,2005,612.1496745,9
+"Neurological disorders",639.032745,2006,626.6267904,9
+"Neurological disorders",648.0793014,2007,639.032745,9
+"Neurological disorders",662.5316742,2008,648.0793014,9
+"Neurological disorders",674.6277449,2009,662.5316742,9
+"Neurological disorders",679.8840587,2010,674.6277449,9
+"Neurological disorders",671.4081906,2011,679.8840587,9
+"Neurological disorders",658.1106725,2012,671.4081906,9
+"Neurological disorders",646.0394108,2013,658.1106725,9
+"Neurological disorders",641.0706776,2014,646.0394108,9
+"Neurological disorders",627.2919644,2015,641.0706776,9
+"Neurological disorders",618.0776758,2016,627.2919644,8
+"Neurological disorders",611.3291703,2017,618.0776758,8
+"Nutritional deficiencies",81.26678847,1990,NA,15
+"Nutritional deficiencies",77.41537097,1991,81.26678847,15
+"Nutritional deficiencies",68.50483066,1992,77.41537097,15
+"Nutritional deficiencies",58.9823338,1993,68.50483066,15
+"Nutritional deficiencies",53.35963892,1994,58.9823338,16
+"Nutritional deficiencies",46.83185668,1995,53.35963892,16
+"Nutritional deficiencies",41.5402294,1996,46.83185668,16
+"Nutritional deficiencies",37.68642424,1997,41.5402294,16
+"Nutritional deficiencies",33.71113833,1998,37.68642424,18
+"Nutritional deficiencies",30.54785696,1999,33.71113833,18
+"Nutritional deficiencies",27.70710259,2000,30.54785696,18
+"Nutritional deficiencies",26.13630808,2001,27.70710259,18
+"Nutritional deficiencies",24.74281331,2002,26.13630808,18
+"Nutritional deficiencies",22.49981836,2003,24.74281331,18
+"Nutritional deficiencies",19.88536215,2004,22.49981836,18
+"Nutritional deficiencies",18.12773421,2005,19.88536215,18
+"Nutritional deficiencies",16.98876079,2006,18.12773421,18
+"Nutritional deficiencies",15.92149085,2007,16.98876079,19
+"Nutritional deficiencies",15.00057344,2008,15.92149085,19
+"Nutritional deficiencies",14.14197169,2009,15.00057344,19
+"Nutritional deficiencies",13.256938,2010,14.14197169,19
+"Nutritional deficiencies",12.39648261,2011,13.256938,19
+"Nutritional deficiencies",11.58272798,2012,12.39648261,19
+"Nutritional deficiencies",10.78064496,2013,11.58272798,19
+"Nutritional deficiencies",10.0254084,2014,10.78064496,19
+"Nutritional deficiencies",9.382116252,2015,10.0254084,19
+"Nutritional deficiencies",8.832631476,2016,9.382116252,19
+"Nutritional deficiencies",8.303389879,2017,8.832631476,19
+"Other infectious diseases",773.4774284,1990,NA,10
+"Other infectious diseases",362.2674277,1991,773.4774284,13
+"Other infectious diseases",356.1767358,1992,362.2674277,13
+"Other infectious diseases",337.8098036,1993,356.1767358,13
+"Other infectious diseases",314.0621452,1994,337.8098036,13
+"Other infectious diseases",296.7115396,1995,314.0621452,13
+"Other infectious diseases",288.4045862,1996,296.7115396,13
+"Other infectious diseases",274.0079498,1997,288.4045862,13
+"Other infectious diseases",260.2143068,1998,274.0079498,13
+"Other infectious diseases",225.1765573,1999,260.2143068,13
+"Other infectious diseases",210.8386573,2000,225.1765573,13
+"Other infectious diseases",184.6572694,2001,210.8386573,13
+"Other infectious diseases",169.4221505,2002,184.6572694,13
+"Other infectious diseases",163.8707441,2003,169.4221505,14
+"Other infectious diseases",157.8083875,2004,163.8707441,14
+"Other infectious diseases",148.6968705,2005,157.8083875,14
+"Other infectious diseases",147.9431606,2006,148.6968705,13
+"Other infectious diseases",139.8356094,2007,147.9431606,13
+"Other infectious diseases",118.870534,2008,139.8356094,13
+"Other infectious diseases",114.2959939,2009,118.870534,13
+"Other infectious diseases",111.4234132,2010,114.2959939,13
+"Other infectious diseases",107.8160886,2011,111.4234132,13
+"Other infectious diseases",101.037729,2012,107.8160886,13
+"Other infectious diseases",97.64323007,2013,101.037729,13
+"Other infectious diseases",94.55161497,2014,97.64323007,13
+"Other infectious diseases",91.66635785,2015,94.55161497,13
+"Other infectious diseases",89.33966363,2016,91.66635785,13
+"Other infectious diseases",95.42467825,2017,89.33966363,13
+"Other non-communicable diseases",3299.950274,1990,NA,3
+"Other non-communicable diseases",3339.766107,1991,3299.950274,3
+"Other non-communicable diseases",3177.016787,1992,3339.766107,3
+"Other non-communicable diseases",3011.015083,1993,3177.016787,3
+"Other non-communicable diseases",2840.925478,1994,3011.015083,3
+"Other non-communicable diseases",2709.49347,1995,2840.925478,3
+"Other non-communicable diseases",2543.609252,1996,2709.49347,3
+"Other non-communicable diseases",2383.258468,1997,2543.609252,3
+"Other non-communicable diseases",2234.817285,1998,2383.258468,3
+"Other non-communicable diseases",2099.80733,1999,2234.817285,3
+"Other non-communicable diseases",1960.522904,2000,2099.80733,3
+"Other non-communicable diseases",1843.139436,2001,1960.522904,3
+"Other non-communicable diseases",1747.370174,2002,1843.139436,4
+"Other non-communicable diseases",1646.785382,2003,1747.370174,4
+"Other non-communicable diseases",1554.435004,2004,1646.785382,5
+"Other non-communicable diseases",1471.945889,2005,1554.435004,5
+"Other non-communicable diseases",1388.322189,2006,1471.945889,5
+"Other non-communicable diseases",1304.023678,2007,1388.322189,5
+"Other non-communicable diseases",1227.992046,2008,1304.023678,5
+"Other non-communicable diseases",1157.869185,2009,1227.992046,5
+"Other non-communicable diseases",1086.593129,2010,1157.869185,5
+"Other non-communicable diseases",1015.500319,2011,1086.593129,6
+"Other non-communicable diseases",950.5886037,2012,1015.500319,7
+"Other non-communicable diseases",891.5899227,2013,950.5886037,7
+"Other non-communicable diseases",839.5199666,2014,891.5899227,7
+"Other non-communicable diseases",791.3298705,2015,839.5199666,7
+"Other non-communicable diseases",749.6649899,2016,791.3298705,7
+"Other non-communicable diseases",694.6127219,2017,749.6649899,7
+"Respiratory infections and tuberculosis",1392.896355,1990,NA,7
+"Respiratory infections and tuberculosis",1363.213587,1991,1392.896355,7
+"Respiratory infections and tuberculosis",1296.845731,1992,1363.213587,7
+"Respiratory infections and tuberculosis",1234.647422,1993,1296.845731,7
+"Respiratory infections and tuberculosis",1174.804637,1994,1234.647422,7
+"Respiratory infections and tuberculosis",1122.98698,1995,1174.804637,7
+"Respiratory infections and tuberculosis",1074.777034,1996,1122.98698,7
+"Respiratory infections and tuberculosis",1031.280752,1997,1074.777034,7
+"Respiratory infections and tuberculosis",994.7336352,1998,1031.280752,7
+"Respiratory infections and tuberculosis",963.9442008,1999,994.7336352,7
+"Respiratory infections and tuberculosis",934.8348994,2000,963.9442008,8
+"Respiratory infections and tuberculosis",898.6821122,2001,934.8348994,8
+"Respiratory infections and tuberculosis",894.2560576,2002,898.6821122,8
+"Respiratory infections and tuberculosis",880.7634027,2003,894.2560576,8
+"Respiratory infections and tuberculosis",856.4688262,2004,880.7634027,8
+"Respiratory infections and tuberculosis",848.1569142,2005,856.4688262,8
+"Respiratory infections and tuberculosis",832.3513971,2006,848.1569142,8
+"Respiratory infections and tuberculosis",822.2854346,2007,832.3513971,8
+"Respiratory infections and tuberculosis",815.1743221,2008,822.2854346,8
+"Respiratory infections and tuberculosis",800.2978604,2009,815.1743221,8
+"Respiratory infections and tuberculosis",785.7077665,2010,800.2978604,8
+"Respiratory infections and tuberculosis",763.232842,2011,785.7077665,8
+"Respiratory infections and tuberculosis",734.2173113,2012,763.232842,8
+"Respiratory infections and tuberculosis",702.9695865,2013,734.2173113,8
+"Respiratory infections and tuberculosis",670.6266356,2014,702.9695865,8
+"Respiratory infections and tuberculosis",640.1802445,2015,670.6266356,8
+"Respiratory infections and tuberculosis",615.8278982,2016,640.1802445,9
+"Respiratory infections and tuberculosis",593.7653629,2017,615.8278982,9
+"Self-harm and interpersonal violence",154.2151469,1990,NA,14
+"Self-harm and interpersonal violence",184.8517257,1991,154.2151469,14
+"Self-harm and interpersonal violence",153.2240593,1992,184.8517257,14
+"Self-harm and interpersonal violence",151.7455793,1993,153.2240593,14
+"Self-harm and interpersonal violence",150.2692945,1994,151.7455793,14
+"Self-harm and interpersonal violence",153.0480032,1995,150.2692945,14
+"Self-harm and interpersonal violence",153.209823,1996,153.0480032,14
+"Self-harm and interpersonal violence",148.7731353,1997,153.209823,14
+"Self-harm and interpersonal violence",147.8635033,1998,148.7731353,14
+"Self-harm and interpersonal violence",147.4986976,1999,147.8635033,14
+"Self-harm and interpersonal violence",148.4522851,2000,147.4986976,14
+"Self-harm and interpersonal violence",148.9374322,2001,148.4522851,14
+"Self-harm and interpersonal violence",152.8211016,2002,148.9374322,14
+"Self-harm and interpersonal violence",174.1279251,2003,152.8211016,13
+"Self-harm and interpersonal violence",192.1081321,2004,174.1279251,12
+"Self-harm and interpersonal violence",165.5386246,2005,192.1081321,12
+"Self-harm and interpersonal violence",162.3353802,2006,165.5386246,12
+"Self-harm and interpersonal violence",161.1809558,2007,162.3353802,12
+"Self-harm and interpersonal violence",160.3448318,2008,161.1809558,12
+"Self-harm and interpersonal violence",161.3838575,2009,160.3448318,12
+"Self-harm and interpersonal violence",162.321824,2010,161.3838575,12
+"Self-harm and interpersonal violence",164.5453343,2011,162.321824,12
+"Self-harm and interpersonal violence",166.6905455,2012,164.5453343,12
+"Self-harm and interpersonal violence",166.2663701,2013,166.6905455,12
+"Self-harm and interpersonal violence",171.1180881,2014,166.2663701,12
+"Self-harm and interpersonal violence",219.0800487,2015,171.1180881,12
+"Self-harm and interpersonal violence",470.7104324,2016,219.0800487,10
+"Self-harm and interpersonal violence",552.9008383,2017,470.7104324,10
+"Skin and subcutaneous diseases",29.19374294,1990,NA,18
+"Skin and subcutaneous diseases",30.14400495,1991,29.19374294,18
+"Skin and subcutaneous diseases",30.88378654,1992,30.14400495,19
+"Skin and subcutaneous diseases",31.56038159,1993,30.88378654,18
+"Skin and subcutaneous diseases",32.17429021,1994,31.56038159,18
+"Skin and subcutaneous diseases",32.81198932,1995,32.17429021,18
+"Skin and subcutaneous diseases",33.41486552,1996,32.81198932,18
+"Skin and subcutaneous diseases",33.99051205,1997,33.41486552,18
+"Skin and subcutaneous diseases",34.63005697,1998,33.99051205,17
+"Skin and subcutaneous diseases",35.3333605,1999,34.63005697,17
+"Skin and subcutaneous diseases",36.37982827,2000,35.3333605,17
+"Skin and subcutaneous diseases",36.06394112,2001,36.37982827,17
+"Skin and subcutaneous diseases",36.77984726,2002,36.06394112,17
+"Skin and subcutaneous diseases",38.0574446,2003,36.77984726,17
+"Skin and subcutaneous diseases",39.85387821,2004,38.0574446,17
+"Skin and subcutaneous diseases",41.69284219,2005,39.85387821,16
+"Skin and subcutaneous diseases",43.08572667,2006,41.69284219,16
+"Skin and subcutaneous diseases",44.57537022,2007,43.08572667,17
+"Skin and subcutaneous diseases",46.54460358,2008,44.57537022,17
+"Skin and subcutaneous diseases",48.42521481,2009,46.54460358,17
+"Skin and subcutaneous diseases",50.02342939,2010,48.42521481,17
+"Skin and subcutaneous diseases",50.83877103,2011,50.02342939,17
+"Skin and subcutaneous diseases",51.30779953,2012,50.83877103,17
+"Skin and subcutaneous diseases",51.57086411,2013,51.30779953,17
+"Skin and subcutaneous diseases",51.68595328,2014,51.57086411,17
+"Skin and subcutaneous diseases",51.21053076,2015,51.68595328,17
+"Skin and subcutaneous diseases",50.85726368,2016,51.21053076,17
+"Skin and subcutaneous diseases",50.56148221,2017,50.85726368,17
+"Substance use disorders",28.85445503,1990,NA,19
+"Substance use disorders",29.88878492,1991,28.85445503,19
+"Substance use disorders",31.08499733,1992,29.88878492,18
+"Substance use disorders",32.17435695,1993,31.08499733,17
+"Substance use disorders",33.28266881,1994,32.17435695,17
+"Substance use disorders",34.46441994,1995,33.28266881,17
+"Substance use disorders",35.68895776,1996,34.46441994,17
+"Substance use disorders",36.93277767,1997,35.68895776,17
+"Substance use disorders",38.44090277,1998,36.93277767,16
+"Substance use disorders",40.02776488,1999,38.44090277,16
+"Substance use disorders",42.36648483,2000,40.02776488,16
+"Substance use disorders",42.48563489,2001,42.36648483,16
+"Substance use disorders",46.23742174,2002,42.48563489,16
+"Substance use disorders",46.25296626,2003,46.23742174,16
+"Substance use disorders",41.56080207,2004,46.25296626,16
+"Substance use disorders",40.45491819,2005,41.56080207,17
+"Substance use disorders",41.63401817,2006,40.45491819,17
+"Substance use disorders",45.63233819,2007,41.63401817,16
+"Substance use disorders",48.68183561,2008,45.63233819,16
+"Substance use disorders",51.316001,2009,48.68183561,16
+"Substance use disorders",54.09861417,2010,51.316001,16
+"Substance use disorders",56.6630281,2011,54.09861417,16
+"Substance use disorders",59.00987282,2012,56.6630281,16
+"Substance use disorders",61.34538895,2013,59.00987282,16
+"Substance use disorders",63.65092538,2014,61.34538895,16
+"Substance use disorders",65.71166387,2015,63.65092538,15
+"Substance use disorders",67.78324624,2016,65.71166387,15
+"Substance use disorders",69.44778583,2017,67.78324624,15
+"Transport injuries",2260.200349,1990,NA,4
+"Transport injuries",2366.252103,1991,2260.200349,4
+"Transport injuries",2178.639868,1992,2366.252103,4
+"Transport injuries",2116.201208,1993,2178.639868,4
+"Transport injuries",2056.02364,1994,2116.201208,4
+"Transport injuries",2007.047504,1995,2056.02364,4
+"Transport injuries",1964.858969,1996,2007.047504,4
+"Transport injuries",1929.785205,1997,1964.858969,4
+"Transport injuries",1890.862324,1998,1929.785205,4
+"Transport injuries",1866.050363,1999,1890.862324,4
+"Transport injuries",1844.172687,2000,1866.050363,4
+"Transport injuries",1832.389892,2001,1844.172687,4
+"Transport injuries",1889.241897,2002,1832.389892,3
+"Transport injuries",1882.472875,2003,1889.241897,3
+"Transport injuries",1869.838796,2004,1882.472875,3
+"Transport injuries",1878.320412,2005,1869.838796,3
+"Transport injuries",1863.074478,2006,1878.320412,3
+"Transport injuries",1836.203395,2007,1863.074478,2
+"Transport injuries",1778.72582,2008,1836.203395,2
+"Transport injuries",1742.590652,2009,1778.72582,3
+"Transport injuries",1720.129624,2010,1742.590652,3
+"Transport injuries",1695.848533,2011,1720.129624,3
+"Transport injuries",1671.301798,2012,1695.848533,3
+"Transport injuries",1663.75347,2013,1671.301798,3
+"Transport injuries",1638.246194,2014,1663.75347,3
+"Transport injuries",1604.270429,2015,1638.246194,3
+"Transport injuries",1568.184261,2016,1604.270429,3
+"Transport injuries",1524.399073,2017,1568.184261,3
+"Unintentional injuries",2212.134156,1990,NA,5
+"Unintentional injuries",1708.922991,1991,2212.134156,5
+"Unintentional injuries",1648.328197,1992,1708.922991,5
+"Unintentional injuries",1592.119108,1993,1648.328197,6
+"Unintentional injuries",1589.73096,1994,1592.119108,6
+"Unintentional injuries",1488.834637,1995,1589.73096,6
+"Unintentional injuries",1451.407367,1996,1488.834637,6
+"Unintentional injuries",1492.493307,1997,1451.407367,6
+"Unintentional injuries",1389.61544,1998,1492.493307,6
+"Unintentional injuries",1335.823867,1999,1389.61544,6
+"Unintentional injuries",1293.803456,2000,1335.823867,6
+"Unintentional injuries",1281.97746,2001,1293.803456,6
+"Unintentional injuries",1284.066148,2002,1281.97746,6
+"Unintentional injuries",1289.356452,2003,1284.066148,6
+"Unintentional injuries",1275.6503,2004,1289.356452,6
+"Unintentional injuries",1211.03946,2005,1275.6503,6
+"Unintentional injuries",1259.885585,2006,1211.03946,6
+"Unintentional injuries",1157.6602,2007,1259.885585,6
+"Unintentional injuries",1118.988938,2008,1157.6602,6
+"Unintentional injuries",1127.93844,2009,1118.988938,6
+"Unintentional injuries",1079.95177,2010,1127.93844,6
+"Unintentional injuries",1055.119756,2011,1079.95177,5
+"Unintentional injuries",1038.036593,2012,1055.119756,5
+"Unintentional injuries",1012.71804,2013,1038.036593,5
+"Unintentional injuries",986.5485126,2014,1012.71804,5
+"Unintentional injuries",1337.640295,2015,986.5485126,4
+"Unintentional injuries",940.7286835,2016,1337.640295,5
+"Unintentional injuries",911.8928532,2017,940.7286835,4
